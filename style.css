@@ -17,6 +17,16 @@ body {
     overflow:hidden;
 }
 
+h1{
+    text-align: center;
+    color: azure;
+    padding: 10px 0px 15.5px
+}
+
+
+.page-header{
+    background-color: #306777;
+}
 
 .slider div p{
     color:#1c1c1c;
