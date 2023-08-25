@@ -80,3 +80,40 @@ h1{
     -moz-transition: cubic-bezier(0,1.95,.49,.73) .4s ;
     transition: cubic-bezier(0,1.95,.49,.73) .4s ;
 }
+
+
+@media (min-width: 35rem) {
+    .page-header{
+        font-size: 25px;
+    }
+
+    .slider{
+        height: 475px;
+        width: 305px;
+    }
+    
+    .slide{      
+        width: 305px;
+        height: 355px;    
+    }
+   /* div{
+        background-color: orange;
+    }*/
+  }
+
+  @media (min-width: 55rem) {
+   
+    .page-header{
+        font-size: 30px;
+    }
+
+    .slider{
+        height: 745px;
+        width: 405px;
+    }
+    
+    .slide{      
+        width: 405px;
+        height: 455px;    
+    }
+  }

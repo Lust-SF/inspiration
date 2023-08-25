@@ -6,8 +6,6 @@ function onWndLoad() {
     var sliders = slider.children;
    
    
-   
-   
     var initX = null;  
     var transX = 0;
     var rotZ = 0;
