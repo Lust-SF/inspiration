@@ -1,4 +1,18 @@
 window.addEventListener('load', onWndLoad, false);
+/*
+const playSound = function() {
+    const playSound = function() {
+        document.getElementById('audioelement').play();
+        document.removeEventListener('click', playSound);
+    }
+}
+
+document.addEventListener('click', playSound);
+
+window.addEventListener("load", (event) => {
+    playSound;
+  });
+  */
 
 function onWndLoad() {
    
